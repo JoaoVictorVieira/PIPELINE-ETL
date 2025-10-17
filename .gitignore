@@ -153,10 +153,10 @@ backups/
 *.backup
 *.bak
 
-# PostgreSQL Dumps
-*_dump.sql
-*_schema.sql
-*.dump
+# PostgreSQL Dumps (comentado para incluir o dump do projeto)
+# *_dump.sql
+# *_schema.sql
+# *.dump
 
 # Temporary files
 tmp/
@@ -179,8 +179,8 @@ Thumbs.db
 *.swo
 *~
 
-# Jupyter notebook outputs
-*.ipynb
+# Jupyter notebook outputs (comentado para incluir notebooks do projeto)
+# *.ipynb
 
 # Database files
 *.db
