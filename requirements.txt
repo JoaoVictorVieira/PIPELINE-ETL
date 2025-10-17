@@ -1,0 +1,18 @@
+# Core dependencies
+pandas==2.1.4
+numpy==1.24.3
+pyspark==3.5.1
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Jupyter
+jupyterlab==4.0.9
+ipykernel==6.25.2
+
+# Data processing
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0

@@ -1,0 +1,6 @@
+# Dependências específicas do Airflow
+apache-airflow==2.8.1
+apache-airflow-providers-postgres==5.7.0
+psycopg2-binary==2.9.9
+requests==2.31.0
+
